@@ -2,3 +2,9 @@
 !.gitignore
 debug/
 release/
+Debug/
+Release/
+*.VC.db
+*.VC.opendb
+*.suo
+*.sln.ecd
